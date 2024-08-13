@@ -10,7 +10,7 @@ The inspiration for this series comes from [Chemistry: The Science in Context](h
 ## Texts in Consideration/Production
 
 - Intro to Programming + Python
-- Intro to Programming + Go
+- Intro to Computer Science + Go
 - Discrete Mathematics + LaTeX  
 - Data Science + Python Data Science Stack
 - Machine Learning + Python ML Stack
